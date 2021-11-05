@@ -1,0 +1,26 @@
+.loginheader{
+  min-height: 30px;
+  text-align: right;
+  background-color: orange;
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+
+
+}
+
+.loginheader a{
+  padding-left: 30px;
+  text-decoration: none;
+  color: black;
+
+}
+
+
+/* home html */
+.container-todo{
+  text-align: center;
+  color: white;
+}
+
+/* login page */
